@@ -1,1 +1,1 @@
-print f project
+printf project
